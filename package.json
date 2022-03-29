@@ -8,7 +8,7 @@
   "dependencies": {
     "react": "next",
     "react-dom": "next",
-    "victory": "next"
+    "victory": "35.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
